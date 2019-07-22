@@ -1,0 +1,15 @@
+c:\users\15146\source\repos\CardsAPI\CardsAPI\bin\Release\netcoreapp2.1\CardsAPI.deps.json
+c:\users\15146\source\repos\CardsAPI\CardsAPI\bin\Release\netcoreapp2.1\CardsAPI.runtimeconfig.json
+c:\users\15146\source\repos\CardsAPI\CardsAPI\bin\Release\netcoreapp2.1\CardsAPI.runtimeconfig.dev.json
+c:\users\15146\source\repos\CardsAPI\CardsAPI\bin\Release\netcoreapp2.1\CardsAPI.dll
+c:\users\15146\source\repos\CardsAPI\CardsAPI\bin\Release\netcoreapp2.1\CardsAPI.pdb
+c:\users\15146\source\repos\CardsAPI\CardsAPI\obj\Release\netcoreapp2.1\CardsAPI.csprojAssemblyReference.cache
+c:\users\15146\source\repos\CardsAPI\CardsAPI\obj\Release\netcoreapp2.1\CardsAPI.csproj.CoreCompileInputs.cache
+c:\users\15146\source\repos\CardsAPI\CardsAPI\obj\Release\netcoreapp2.1\CardsAPI.RazorAssemblyInfo.cache
+c:\users\15146\source\repos\CardsAPI\CardsAPI\obj\Release\netcoreapp2.1\CardsAPI.RazorAssemblyInfo.cs
+c:\users\15146\source\repos\CardsAPI\CardsAPI\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+c:\users\15146\source\repos\CardsAPI\CardsAPI\obj\Release\netcoreapp2.1\CardsAPI.AssemblyInfoInputs.cache
+c:\users\15146\source\repos\CardsAPI\CardsAPI\obj\Release\netcoreapp2.1\CardsAPI.AssemblyInfo.cs
+c:\users\15146\source\repos\CardsAPI\CardsAPI\obj\Release\netcoreapp2.1\CardsAPI.RazorTargetAssemblyInfo.cache
+c:\users\15146\source\repos\CardsAPI\CardsAPI\obj\Release\netcoreapp2.1\CardsAPI.dll
+c:\users\15146\source\repos\CardsAPI\CardsAPI\obj\Release\netcoreapp2.1\CardsAPI.pdb

@@ -1,0 +1,17 @@
+C:\Users\15146\source\repos\CardsAPI\CardAPITest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\15146\source\repos\CardsAPI\CardAPITest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\15146\source\repos\CardsAPI\CardAPITest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\15146\source\repos\CardsAPI\CardAPITest\bin\Debug\netcoreapp2.1\CardAPITest.deps.json
+C:\Users\15146\source\repos\CardsAPI\CardAPITest\bin\Debug\netcoreapp2.1\CardAPITest.runtimeconfig.json
+C:\Users\15146\source\repos\CardsAPI\CardAPITest\bin\Debug\netcoreapp2.1\CardAPITest.runtimeconfig.dev.json
+C:\Users\15146\source\repos\CardsAPI\CardAPITest\bin\Debug\netcoreapp2.1\CardAPITest.dll
+C:\Users\15146\source\repos\CardsAPI\CardAPITest\bin\Debug\netcoreapp2.1\CardsAPI.dll
+C:\Users\15146\source\repos\CardsAPI\CardAPITest\bin\Debug\netcoreapp2.1\CardsAPI.pdb
+C:\Users\15146\source\repos\CardsAPI\CardAPITest\obj\Debug\netcoreapp2.1\CardAPITest.csprojAssemblyReference.cache
+C:\Users\15146\source\repos\CardsAPI\CardAPITest\obj\Debug\netcoreapp2.1\CardAPITest.csproj.CoreCompileInputs.cache
+C:\Users\15146\source\repos\CardsAPI\CardAPITest\obj\Debug\netcoreapp2.1\CardAPITest.AssemblyInfoInputs.cache
+C:\Users\15146\source\repos\CardsAPI\CardAPITest\obj\Debug\netcoreapp2.1\CardAPITest.AssemblyInfo.cs
+C:\Users\15146\source\repos\CardsAPI\CardAPITest\obj\Debug\netcoreapp2.1\CardAPITest.csproj.CopyComplete
+C:\Users\15146\source\repos\CardsAPI\CardAPITest\bin\Debug\netcoreapp2.1\CardAPITest.pdb
+C:\Users\15146\source\repos\CardsAPI\CardAPITest\obj\Debug\netcoreapp2.1\CardAPITest.dll
+C:\Users\15146\source\repos\CardsAPI\CardAPITest\obj\Debug\netcoreapp2.1\CardAPITest.pdb
